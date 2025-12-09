@@ -1,3 +1,9 @@
+## About This Project
+
+This project is part of the Cyfrin Updraft coursework created by Patrick Collins.
+I am building it as a learning exercise to improve my understanding of Foundry, Solidity, and smart contract development best practices.
+
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
